@@ -36,9 +36,17 @@ Examines year-to-year changes in GDP.
 * Comparing total GDP alone does not fully capture differences in living standards, which is why GDP per capita is analyzed separately.
 
 ## Visualization
-### GDP Trends
-![GDP Analysis](gdp_analysis.png)
-The visualization includes GDP trends, the GDP gap, growth rates, the ratio between the two countries, and a scatter plot showing their statistical relationship.
+### GDP Comparison
+![GDP Comparison](images/GDP_comparison.png)
+
+### GDP Gap
+![GDP Gap](images/GDP_gap.png)
+
+### GDP Growth
+![GDP Growth](images/GDP_growth.png)
+
+### Relationship Between Japanese and Philippine GDP
+![GDP Correlation](images/GDP_correlation.png)
 
 ## Future Improvements
 * Add ASEAN country comparisons
