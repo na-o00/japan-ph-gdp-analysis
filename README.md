@@ -27,6 +27,8 @@ Calculates:
 Shows the difference in GDP between the two countries.
 ## 3. GDP Growth Rate Analysis
 Examines year-to-year changes in GDP.
+## 4. Correlation Analysis
+Uses a scatter plot, correlation coefficient, and linear regression to examine the relationship between GDP in Japan and the Philippines
 
 ## Key Findings
 * Japan has a substantially larger overall GDP due to the size of its economy.
