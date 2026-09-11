@@ -37,6 +37,9 @@ Uses a scatter plot, correlation coefficient, and linear regression to examine t
 * Recent trends suggest gradual convergence between the two economies.
 * Comparing total GDP alone does not fully capture differences in living standards, which is why GDP per capita is analyzed separately.
 
+## Skills Demonstrated
+Python | pandas | NumPy | Matplotlib | Data Analysis | Data Visualization
+
 ## Visualization
 ### GDP Comparison
 ![GDP Comparison](images/GDP_comparison.png)
@@ -71,3 +74,5 @@ This analysis will eventually be combined with my GDP per capita, unemployment, 
 **Japan 🇯🇵 vs Philippines 🇵🇭 Economic Comparison Dashboard**
 
 using Python, SQL, and Power BI.
+
+
